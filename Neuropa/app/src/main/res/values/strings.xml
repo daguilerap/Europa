@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Neuropa</string>
+    <string name="pregunta"></string>
+    <string name="enunciado">INDICA SU CAPITAL</string>
+    <string name="enunciadobot">Pulsa para empezar</string>
+    <string name="radio1"></string>
+    <string name="radio2"></string>
+    <string name="radio3"></string>
+    <string name="radio4"></string>
+
+    <array name="respuestas">
+        <item>Madrid</item>
+        <item>Budapest</item>
+        <item>Praga</item>
+        <item>Viena</item>
+        <item>Riga</item>
+        <item>París</item>
+        <item>Berlín</item>
+        <item>Lisboa</item>
+        <item>Roma</item>
+        <item>Moscú</item>
+        <item>Bruselas</item>
+        <item>Sofía</item>
+        <item>Oslo</item>
+    </array>
+
+</resources>
